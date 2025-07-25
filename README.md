@@ -4,12 +4,7 @@
 
 This application is designed to simplify and accelerate the job application process, especially for freshers who often face the frustration of repeatedly filling out the same forms on different platforms. With our tool, users can submit their resumes and personal details once, and the system will automatically fill and submit applications to multiple companies, including those of their choice. This not only saves time but also increases the chances of getting noticed by employers quickly. Initially built to work with **Internshala** by scraping and auto-submitting applications, we plan to expand support for platforms like **LinkedIn**, **Naukri**, and more. Our goal is to empower job seekers by reducing repetitive tasks and helping them apply to their dream roles with ease.
 
----
 
-Let me know if you'd like a shorter version or one tailored for a tech-focused audience.
-Absolutely! Here's a polished and complete `## 🚀 Run Locally` section tailored for your **Flask + Selenium automation bot** project (`bot.py`):
-
----
 
 ## 🚀 Run Locally
 
@@ -67,7 +62,5 @@ flask run
 
 If you found this useful, please consider ⭐️ starring the repo and sharing it with others!
 
----
 
-Would you like me to help you generate the full `README.md` based on your project?
 
